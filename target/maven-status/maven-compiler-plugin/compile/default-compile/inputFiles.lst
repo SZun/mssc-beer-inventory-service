@@ -1,0 +1,9 @@
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInvntoryBootstrap.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/Users/samg.zun/Documents/References/Udemy/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
