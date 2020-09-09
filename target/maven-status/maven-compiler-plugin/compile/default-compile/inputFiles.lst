@@ -5,10 +5,12 @@
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/AllocationListener.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/BeerOrderLineDto.java
+/Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/WebSecurityConfig.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/DeallocationListener.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/JmsConfig.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/DeallocateOrderRequest.java
+/Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/LocalDiscovery.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/BeerOrderDto.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
 /Users/samg.zun/Documents/References/Udemy/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
